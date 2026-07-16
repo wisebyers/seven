@@ -1,5 +1,5 @@
 <h5 align="center" >
-<img src="https://komarev.com/ghpvc/?username=wisebyers&color=FADD9D&style=plastic&label=꩜"/>
+<img src="https://komarev.com/ghpvc/?username=wisebyers&color=BC2F38&style=plastic&label=꩜"/>
 </p>
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
